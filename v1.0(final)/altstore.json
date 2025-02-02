@@ -1,0 +1,16 @@
+{
+  "name": "grand pine app",
+  "bundleIdentifier": "erp.Grandpine.app", // Replace with your app's bundle ID
+  "developerName": "Tomy Abi Saad",
+  "version": "1.0",
+  "versionDate": "2024-10-01", // Use the date you built the app
+  "versions": [
+    {
+      "version": "1.0",
+      "date": "2023-07-01",
+      "localizedDescription": "Initial release",
+      "downloadURL": "https://github.com/dragts2/Built-Apps/raw/main/v1.0(final)/payload.ipa",
+      "size": 12345678 // Size of the IPA in bytes
+    }
+  ]
+}
